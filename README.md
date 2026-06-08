@@ -14,7 +14,7 @@ A modern, highly responsive personal portfolio website built as Task 3 for the C
 * **JavaScript (ES6+):** DOM manipulation, timing events, and scroll observation.
 
 ## 🚀 Live Demo
-[Link to your live project will go here]
+[https://baishnavi06.github.io/CodeAlpha_Portfolio/]
 
 ## 👨‍💻 Developer
 **Baishnavi Kumari** Computer Science Engineering Student & Frontend Development Intern @ CodeAlpha
